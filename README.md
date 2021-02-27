@@ -5,6 +5,8 @@ Built using MERN Stack: React.JS, Node.JS, MongoDB, Express, and Redux
 
 
 Backend Deployment: Heroku
+
+
 Frontend Deployment: Netlify
 
 This is a full-stack project that I decided to squeeze in some time for during my busy semester. The purpose of it is for 
